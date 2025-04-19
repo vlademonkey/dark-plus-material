@@ -17,7 +17,7 @@ The default Dark+ theme, using [Material's color palette](https://material.io/de
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash
-ext install dark-plus-material
+ext install dark-plus-material-funky
 ```
 
 ## Customization
