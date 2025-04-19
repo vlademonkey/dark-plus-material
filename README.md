@@ -1,5 +1,7 @@
 # Dark+ Material
 
+This theme is forked from the beautiful https://github.com/vangware/dark-plus-material
+
 The default Dark+ theme, using [Material's color palette](https://material.io/design/color/the-color-system.html#tools-for-picking-colors).
 
 ## Screenshots

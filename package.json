@@ -1,71 +1,71 @@
 {
-	"name": "dark-plus-material",
-	"description": "The default Dark+ theme, using Material's color palette",
-	"version": "3.2.1",
-	"author": {
-		"email": "hello@vangware.com",
-		"name": "Vangware",
-		"url": "https://vangware.com"
-	},
-	"bugs": "https://github.com/vangware/dark-plus-material/issues",
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Dark+ Material",
-				"uiTheme": "vs-dark",
-				"path": "./dark-plus-material.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"@types/color-diff": "^1.2.3",
-		"@types/node": "^20.8.7",
-		"@vangware/configs": "^7.1.0",
-		"@vangware/types": "^6.3.5",
-		"@vangware/utils": "^10.1.27",
-		"color-diff": "^1.4.0",
-		"eslint": "^8.51.0",
-		"prettier": "^3.0.3",
-		"stylelint": "^15.11.0",
-		"tsx": "^3.14.0",
-		"typescript": "^5.2.2"
-	},
-	"displayName": "Dark+ Material",
-	"engines": {
-		"vscode": "*"
-	},
-	"files": [
-		"assets",
-		"dark-plus-material.json",
-		"screenshots"
-	],
-	"galleryBanner": {
-		"color": "#212121",
-		"theme": "dark"
-	},
-	"homepage": "https://github.com/vangware/dark-plus-material",
-	"icon": "assets/icon.png",
-	"keywords": [
-		"colorful",
-		"dark",
-		"google",
-		"material",
-		"saturated",
-		"theme",
-		"vscode"
-	],
-	"license": "MIT",
-	"publisher": "vangware",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/vangware/dark-plus-material"
-	},
-	"scripts": {
-		"lint": "eslint src",
-		"sync": "node --no-warnings --loader tsx ./src/sync.ts"
-	},
-	"type": "module"
+    "name": "dark-plus-material-funky",
+    "description": "The default Dark+ theme, using Material's color palette",
+    "version": "3.2.1",
+    "author": {
+        "email": "funky@munky.com",
+        "name": "funkymunky",
+        "url": "https://github.com/vlademonkey/dark-plus-material"
+    },
+    "bugs": "https://github.com/vlademonkey/dark-plus-material",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ Material - Funky",
+                "uiTheme": "vs-dark",
+                "path": "./dark-plus-material.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@types/color-diff": "^1.2.3",
+        "@types/node": "^20.8.7",
+        "@vangware/configs": "^7.1.0",
+        "@vangware/types": "^6.3.5",
+        "@vangware/utils": "^10.1.27",
+        "color-diff": "^1.4.0",
+        "eslint": "^8.51.0",
+        "prettier": "^3.0.3",
+        "stylelint": "^15.11.0",
+        "tsx": "^3.14.0",
+        "typescript": "^5.2.2"
+    },
+    "displayName": "Dark+ Material - Funky",
+    "engines": {
+        "vscode": "*"
+    },
+    "files": [
+        "assets",
+        "dark-plus-material.json",
+        "screenshots"
+    ],
+    "galleryBanner": {
+        "color": "#212121",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/vlademonkey/dark-plus-material",
+    "icon": "assets/icon.png",
+    "keywords": [
+        "colorful",
+        "dark",
+        "google",
+        "material",
+        "saturated",
+        "theme",
+        "vscode"
+    ],
+    "license": "MIT",
+    "publisher": "funkymunky",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vlademonkey/dark-plus-material"
+    },
+    "scripts": {
+        "lint": "eslint src",
+        "sync": "node --no-warnings --loader tsx ./src/sync.ts"
+    },
+    "type": "module"
 }
