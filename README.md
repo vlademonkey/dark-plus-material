@@ -6,11 +6,11 @@ The default Dark+ theme, using [Material's color palette](https://material.io/de
 
 ## Screenshots
 
-![CSS screenshot](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/css.png)
+![CSS screenshot](https://raw.githubusercontent.com/vlademonkey/dark-plus-material/blob/main/screenshots/css.png)
 
-![JavaScript screenshot](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/javascript.png)
+![JavaScript screenshot](https://raw.githubusercontent.com/vlademonkey/dark-plus-material/blob/main/screenshots/javascript.png)
 
-![TypeScript screenshot](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/typescript.png)
+![TypeScript screenshot](https://raw.githubusercontent.com/vlademonkey/dark-plus-material/blob/main/screenshots/typescript.png)
 
 ## Installing
 
